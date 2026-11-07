@@ -1,6 +1,8 @@
-# Olá, eu sou Oliver Gomes 👋
-💻 Estudante de Engenharia de Computação 
-📉 Estagiário em dados 
+# Olá, bem vindos(as)!👋
+##### 💻 Estudante de Engenharia de Computação 
+##### 📉 Aprendendo ciência de dados
+##### 🖱️Aprendendo novas linguagens
+
 
 ### 🤖 Linguagens e Tecnologias
 
